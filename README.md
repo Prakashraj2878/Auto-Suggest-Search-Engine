@@ -1,5 +1,12 @@
 # Auto-Suggest-Search-Engine
-You can access this website here:
+You can access this website here:https://prakashraj2878.github.io/Auto-Suggest-Search-Engine/
+
+Tech stack:
+
+HTML
+CSS
+JAVASCRIPT
+TRIES
 
  Description:
 
